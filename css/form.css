@@ -1,0 +1,29 @@
+label {
+	color: #555;
+	display: block;
+	margin-bottom: .2em;
+}
+.grupo {
+	width: 32%;
+	display: inline-block;
+	padding: 10px 0px;
+}
+.campo {
+	margin: 0;
+	padding-bottom: 1em;
+	border: 1px solid #ccc;
+	padding: .7em;
+	width: 100%;
+}
+.botao {
+	padding: 5px;
+	border: none;	
+	font-size: 1.2em;
+	cursor: pointer;	
+	color: #fff;
+	background-color:#0c8cd3;
+	width: 25%;
+    display: block;    
+    margin: 10px 0px;
+    border-radius: 10px;
+}
